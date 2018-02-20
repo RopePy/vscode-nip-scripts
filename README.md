@@ -4,7 +4,7 @@ View and run NIP scripts from the sidebar
 
 # Demo
 
-![NIP Scripts](https://github.com/Duroktar/vscode-nip-scripts/raw/master/media/demo.gif "Demo")
+![NIP Scripts](https://github.com/RopePy/vscode-nip-scripts/raw/master/media/demo.gif "Demo")
 
 
 # Usage
