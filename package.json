@@ -2,7 +2,7 @@
     "name": "vscode-nip-scripts",
     "displayName": "NIP-Scripts",
     "description": "View and run NIP scripts in the sidebar.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "traBpUkciP",
     "engines": {
         "vscode": "^1.13.0"
